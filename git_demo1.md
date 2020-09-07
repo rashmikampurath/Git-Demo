@@ -7,3 +7,6 @@ And the third line.
 Forth line.
 
 This is a new line added at the end!
+
+
+This change is done remotely by my colleage!
